@@ -1,6 +1,7 @@
 # Rabbit Glow Effect 
 
-This project demonstrates how to create a glow effect on an image using HTML and CSS. Two techniques are used:
+This project demonstrates how to create a glow effect on an image using HTML and CSS.
+Two techniques are used:
 
 - **Box Shadow**: Adds a glowing border around the image.
 - **Drop Shadow**: Adds a glow around the image using CSS filters.
