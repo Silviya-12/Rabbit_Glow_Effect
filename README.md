@@ -11,7 +11,7 @@ Two techniques are used:
 - `rabbit.png` — The rabbit image used for the demonstration.
 
 ## 🎨 Preview
-![Rabbit Glow Effect](rabbit 3.png)
+![Rabbit Glow Effect](OUTPUT)
 
 ## 🚀 How to Use
 1. Clone the repository.
